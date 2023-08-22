@@ -1,0 +1,19 @@
+{
+    "name": "chris/api",
+    "description": "RESPONSE API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Topher-06",
+            "email": "christopherfrancisco171@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "chris\\api\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
